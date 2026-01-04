@@ -4,3 +4,8 @@ git config --global user.name "r.vinodrajendran"
 git config --global user.email "r.vinodrajendran@gmail.com"
 git clone https://github.com/rvinodrajendran/devops-learning.git
 git pull - to extract the data
+completed ssh authentication for git push
+created test.txt and added some text from linux server (192.168.0.135)
+git add test.txt
+git commit -m "add test.txt file"
+git push
