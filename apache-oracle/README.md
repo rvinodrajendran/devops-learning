@@ -11,3 +11,7 @@ port 80 was assigned to apache server on port 80 and the same was working in 192
 as nginx was originally loaded in browser, cache did not support apache webpage
 
 after sometime, it loaded with apache webpage in localhost port 80 192.168.0.135
+
+sudo systemctl enable apache2 && sudo systemctl start apache2
+
+systemctl status apache2
