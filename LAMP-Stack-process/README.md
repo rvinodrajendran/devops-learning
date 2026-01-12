@@ -67,3 +67,6 @@ of the folder and provides ownership to apache
 e.	sudo chmod -R 755 /var/www/html    ->>   changes permission to read, write, execute to 
 apache server and this is the final step, after this, load the public IP in browser and the 
 website should be loaded.
+
+after this, the website loads in browser and from there, wordpress installation should be made 
+in browser, once completed the default page loads
